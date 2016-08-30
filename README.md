@@ -1,4 +1,6 @@
 # image_rotate
+Method: HTML,CSS,JavaScript
+
 image_rotate
 
 1: Images could rotate from image1 to image6 automatically.
